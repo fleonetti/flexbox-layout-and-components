@@ -1,1 +1,7 @@
 #FLEX LAYOUT AND COMPONENTS
+
+´txt
+~
+~
+~
+~
